@@ -1,0 +1,4 @@
+# SDK and NDK paths - Update based on your installation
+sdk.dir=/Users/USERNAME/Library/Android/sdk
+ndk.dir=/Users/USERNAME/Library/Android/sdk/ndk/25.1.8937393
+opencv.dir=/Users/USERNAME/opencv-android-sdk
