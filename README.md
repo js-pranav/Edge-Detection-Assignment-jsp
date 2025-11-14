@@ -76,7 +76,7 @@ Install the generated APK (`app/build/outputs/apk/debug/app-debug.apk`) on a dev
 - Add controls for Canny thresholds
 - Save processed frames to disk or share via intent
 
-** Repo link: 
+** Repo link: https://github.com/js-pranav/Edge-Detection-Assignment-jsp/blob/main/README.md
 
 
 ** Working sample images are included in the directory. 
